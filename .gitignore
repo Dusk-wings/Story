@@ -1,0 +1,4 @@
+.DS_Store
+secret.txt
+
+# to remove all the file of specefic ext use *.txt
